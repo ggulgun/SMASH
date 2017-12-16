@@ -1,0 +1,2 @@
+# SMASH
+This project aims to create new tweets and carry out social engineering attacks by using the messages that people sent from social media accounts. Deep learning methods are used in this project. Besides, the model is trained with the social media messages of the people and new messages are created with this model. Malicious links are designed for people's interests. The study was implemented as a project developed only in the graduate course of ethical hacking. It is for educational purposes.
